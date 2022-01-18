@@ -6,8 +6,10 @@ Resultado final dos cursos:
 
 
 HTML5 e CSS3 parte 1: A primeira página da web;
+link: https://cursos.alura.com.br/course/html5-css3-primeiros-passos
 
 HTML5 e CSS3 parte 2: Posicionamento, listas e navegação;
+
 
 HTML5 e CSS3 parte 3: Trabalhandocom formulários e tabelas;
 
